@@ -1,0 +1,1 @@
+netsh int ipv4 set address name="Ethernet" source=static address=192.168.1.50 mask=255.255.255.0
